@@ -8,6 +8,7 @@ const {
 const { animals } = require("../data/animals");
 // const { create } = require("domain");
 // const exp = require("constants");
+jest.mock("fs");
 
 test("creates an animal object", () => {
   const animal = createNewAnimal(
