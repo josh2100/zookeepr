@@ -59,6 +59,18 @@
       "age": 64,
       "favoriteAnimal": "Rabbit",
       "id": "9"
+    },
+    {
+      "name": "Ethan",
+      "age": 4,
+      "favoriteAnimal": "octopus",
+      "id": "10"
+    },
+    {
+      "name": "Josh",
+      "age": 33,
+      "favoriteAnimal": "tiger",
+      "id": "11"
     }
   ]
 }
